@@ -9,7 +9,7 @@ INPUTS: Animal's name, location spotted, other physical attributes of the animal
 
 ## Installation
 
-* Clone the repo: `https://github.com/kev87ian/Organization_news.git`
+* Clone the repo: `https://github.com/Emmanuel1738/Organisational-News-Portal`
 * Run the command `gradle build`
 * Run the tests `gradle test`
 * Launch the app `gradle run`.
