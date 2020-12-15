@@ -1,11 +1,8 @@
-# News_API
+# Organisational-News-Portal
 
 ### Description
 This is a RESTful API that helps retrieve news for an organization. The users should be able to add news, add users and view the same
 By Emmanuel Bett
-
-## Behavior Driven Development
-INPUTS: Animal's name, location spotted, other physical attributes of the animal, ranger who made the spotting. Output: A table that shows all the animals in the database with their detailed information
 
 ## Installation
 
